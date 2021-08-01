@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AAAA,MACE,YAAa,CACb,aAAA,CAAA,QAAS,CACV,KAGC,aAAc,CACd,WAAY","file":"main.52768f55.chunk.css","sourcesContent":[".tabs {\n  display: flex;\n  gap: 20px;\n}\n\n.box {\n  margin: 0 auto;\n  width: 400px;\n}\n"]}
